@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 863007979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 950494a57e88d541ffb957bc38e8ab1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 166ccc02b23b388be49378fccb1ac3fe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/Textures/Materials/Wins.mat
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 507952978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6b484160925e8c02fb6420e91d45be3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/BackGrounds/FBX/_Background.fbx
+Dependencies:
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/backgrounds/materials/back-01.mat.ab

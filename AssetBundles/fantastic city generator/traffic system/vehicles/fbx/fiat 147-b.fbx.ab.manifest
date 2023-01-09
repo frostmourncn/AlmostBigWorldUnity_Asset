@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1419371702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0bf6e0f2d155de8455195f353fc6532
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/Traffic System/Vehicles/FBX/Fiat 147-b.fbx
+Dependencies:
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/traffic system/materials/tires.mat.ab
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/traffic system/materials/traffic-car-atlas.mat.ab

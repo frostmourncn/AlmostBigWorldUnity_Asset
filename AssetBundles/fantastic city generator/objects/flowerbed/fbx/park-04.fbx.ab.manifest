@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1425759095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71ded8671092ee1a19f94ca7b641f488
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/Objects/Flowerbed/FBX/Park-04.fbx
+Dependencies:
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/textures/materials/atlas-1.mat.ab
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/textures/materials/trees-01.mat.ab

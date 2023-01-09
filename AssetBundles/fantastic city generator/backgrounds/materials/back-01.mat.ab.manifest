@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3046087733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f2bb44b0acaab22616218241691be2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/BackGrounds/Materials/Back-01.mat
+Dependencies: []

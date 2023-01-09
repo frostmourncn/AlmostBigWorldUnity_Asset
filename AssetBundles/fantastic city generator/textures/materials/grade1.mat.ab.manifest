@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3185228043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd55eb7da9f559303283de3767d64843
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/Textures/Materials/Grade1.mat
+Dependencies: []

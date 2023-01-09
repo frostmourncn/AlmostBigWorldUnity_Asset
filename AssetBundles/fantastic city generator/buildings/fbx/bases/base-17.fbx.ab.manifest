@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 733657393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53cc69ee5035755c3b8be71fba90fc5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fantastic City Generator/Buildings/FBX/Bases/Base-17.fbx
+Dependencies:
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/textures/materials/atlas-1.mat.ab
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/textures/materials/grade1.mat.ab
+- C:/workspace/StreamingScene/Assets/StreamingAssets/AssetBundles/fantastic city
+  generator/textures/materials/grass-01.mat.ab
